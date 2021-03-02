@@ -1,5 +1,7 @@
 #  README
 
-
-
+For using Terraform to install ubuntu EC2s in your AWS acccount with Internet Access  for ACI Cloud Openshift Install on AWS
+This is the Child Module and associated with Terraform Cloud.  You only need to clone the Parent Module.
+Parent Module is at: https://github.com/soumukhe/terraform-parent_module-awsacicloud-openshift_install.git
+Please read the README of Parent Module at: https://github.com/soumukhe/terraform-parent_module-awsacicloud-openshift_install/blob/master/README
 
